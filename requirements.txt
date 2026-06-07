@@ -4,3 +4,4 @@ aiohttp
 pycryptodome
 protobuf
 python-multipart
+protobuf-decoder>=0.1.0
