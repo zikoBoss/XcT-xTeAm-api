@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiohttp
+pycryptodome
+protobuf
+python-multipart
